@@ -1,0 +1,35 @@
+$font-primary: "Open Sans", sans-serif;
+$color-primary: #010101;
+$black: #010101;
+$white: #fff;
+$gray: #222;
+$light-gray: #ffeff1;
+$orange: #ff6f00;
+
+
+$size-primary: 14px;
+$line-primary: 1.6;
+$size-smaller: 15px;
+$line-smaller: 21px;
+$size-h1: 50px;
+
+
+$transition: 0.5s ease;
+
+@mixin background-cover() {
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat no-repeat;
+}
+
+@mixin background-shadow() {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba($black, 0.6);
+  text-align: center;
+  transition: $transition;
+  opacity: 0;
+}

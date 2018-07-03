@@ -1,0 +1,9 @@
+RewriteEngine on
+Options +FollowSymlinks
+RewriteBase /
+
+RewriteRule  ^o-nas\/?$  /diverse/dist/  [L]
+
+RewriteRule  ^kontakt\/?$  /diverse/dist/  [L]
+
+RewriteRule  ^reference\/?$  {REQUEST_URI}/reference.php  [L]
