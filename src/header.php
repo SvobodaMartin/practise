@@ -7,11 +7,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Diverse Reality</title>
+    <title>Practise</title>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Tradops" />
-    <meta name="keywords" content="Tradops" />
-    <meta name="author" content="Foreground s.r.o." />
+    <meta name="description" content="Practise" />
+    <meta name="keywords" content="Practise" />
+    <meta name="author" content="InEL" />
     <!-- Facebook and Twitter integration -->
     <meta property="og:title" content=""/>
     <meta property="og:image" content=""/>

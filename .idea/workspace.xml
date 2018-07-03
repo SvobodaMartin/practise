@@ -2,129 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53545905-6b98-461c-9655-4775602b6a5d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/images.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/images_backup.rar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/dist/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/dist/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/hybesova/exterior_cam_01_V04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/hybesova/exterior_cam_02_V03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/hybesova/exterior_cam_03_V04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/hybesova/exteriorr_cam_01_V04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/moravany/Ulicni.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/moravany/Ulicni.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/moravany/Zahradni.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/moravany/Zahradni.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/projektBoskovice.php" beforeDir="false" afterPath="$PROJECT_DIR$/dist/projektBoskovice.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/projektHybesova.php" beforeDir="false" afterPath="$PROJECT_DIR$/dist/projektHybesova.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/projektMoravany.php" beforeDir="false" afterPath="$PROJECT_DIR$/dist/projektMoravany.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Newheader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byt.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/diverse_logo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/galerie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Newheader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/byt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/diverse_logo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/galerie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/headerNew.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/hp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/hp2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images_backup.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/komplex.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/mapa.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/o-nas.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/old-orangebox-footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/orangebox-footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/podstrana.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/projekt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/projektBoskovice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/projektHybesova.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/projektMoravany.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/reference.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/rozcestnik.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/standardy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/test.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hp2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/BDH-2kk-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Boskovice/Boskovice_sit0005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Boskovice/Boskovice_sit0006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Boskovice_sit0006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Boskovice_sit0007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Boskovice_sit0009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Favicon_diverse_reality.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Logo_diverse_reality.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Logo_diverse_reality_inverse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Logo_diverse_reality_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_aristoteles.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_aristoteles02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_hybesova.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_meridiem.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_pod_strelnici (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_pod_strelnici.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_samalova (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_samalova.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bn_pozadi_zebetin_jana_nepomuckeho.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/byt-plan-temporari.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/byty-img-temporary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/develop_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/diverse_logo_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/favicon_diverse_reality_mini.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/fotky029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hp_photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hybesova.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hybesova/exterior_cam_02_V03_2000x1500.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hybesova/exterior_cam_03_V04_2000x1500.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hybesova/exteriorr_cam_01_V04_2000x1500.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/meridiem/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/moravany/Ulicni.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/moravany/Zahradni.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/pin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/reality_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/service_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Dlažba-ICON_Beige_60x60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Dlažba-ICON_Black_60x60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Dlažba-ICON_Brown_60x60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Dlažba-ICON_Silver_60x60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Dlažba-ICON_Smoke_60x60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Dveře-Egger_H1146_Lamino_Dub_šedý.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Kování vstup-Rostex_Treviso_RX1H.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Kování_vnitřní_Rostex_Treviso_H.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Radiátor-CONCEPT_200_Viola-bílý.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Sifon_hranatý-JIKA_CUBITO.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Sprcha_ruční-CONCEPT_300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Sprchová_baterie-CONCEPT_200_NEW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Sprchový_kout-HUPE-CONCEPT_300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Svítidlo_koupelna-EGLO_Pandella_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Topná_tyč-CONCEPT.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Umyvadlo_60-JIKA_CUBITO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Umyvadlová_baterie-CONCEPT_200_NEW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/Vanička_90X90-CONCEPT_100_Verano.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/WC-JIKA_Pure-Cubito.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/WC_sedátko-JIKA_Pure-Cubito.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/standardy/image001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/komplex.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/o-nas.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/old-orangebox-footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/orangebox-footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projektBoskovice.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projektHybesova.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projektMoravany.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reference.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rozcestnik.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_Oldheader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_byt.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_galerie.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_homepage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_homepage.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_komplex.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_modalSection.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_orangeboxFooter.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_projekts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_realizations.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_rozcestnik.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_standardy.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_test.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images.rar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/components/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standardy.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.php" beforeDir="false" />
     </list>
     <ignored path="diverse-reality-new.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -159,15 +65,31 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+            <state relative-caret-position="289">
+              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/footer.php">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-629">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -227,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sass/components/_rozcestnik.scss" />
         <option value="$PROJECT_DIR$/src/iresoft.php" />
         <option value="$PROJECT_DIR$/src/privacy-policy.php" />
         <option value="$PROJECT_DIR$/src/zasady-ochrany-osobnych-udajov.php" />
@@ -277,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/sass/components/_footer.scss" />
         <option value="$PROJECT_DIR$/src/footer.php" />
         <option value="$PROJECT_DIR$/src/index.php" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/header.php" />
       </list>
     </option>
@@ -375,7 +297,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-1928" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -388,54 +310,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="tradops" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tradops" type="462c0819:PsiDirectoryNode" />
+              <item name="practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tradops" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tradops" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tradops" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tradops" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tradops" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tradops" type="462c0819:PsiDirectoryNode" />
+              <item name="practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tradops" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tradops" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tradops" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tradops" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tradops" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tradops" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-              <item name="variables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -446,15 +337,15 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\diverse-reality-new\src\images\moravany" />
+      <recent name="C:\wamp64\www\diverse-reality-new\src\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\diverse-reality-new\src\images\standardy" />
       <recent name="C:\wamp64\www\diverse-reality-new\src\sass\components" />
       <recent name="C:\wamp64\www\diverse-reality-new\src" />
       <recent name="C:\wamp64\www\diverse-reality-new\src\images\hybesova" />
-      <recent name="C:\wamp64\www\diverse-reality-new\src\images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\diverse-reality-new\src\images\moravany" />
       <recent name="C:\wamp64\www\diverse-reality-new\src\images" />
     </key>
   </component>
@@ -565,6 +456,7 @@
       <workItem from="1529668197278" duration="1745000" />
       <workItem from="1529906500607" duration="187000" />
       <workItem from="1530168850248" duration="723000" />
+      <workItem from="1530596863125" duration="410000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1526537743653</created>
@@ -724,23 +616,24 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363816000" />
+    <option name="totallyTimeSpent" value="364226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31343284" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31663114" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50586355" side_tool="true" weight="0.25925925" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27124184" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27124184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49413645" visible="true" weight="0.25054467" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49413645" visible="true" weight="0.25054467" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -754,19 +647,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27124184" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.23747277" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49413645" visible="true" weight="0.25054467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32897604" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50586355" side_tool="true" weight="0.25925925" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -817,13 +710,21 @@
     </find-history>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/standardy.php">
+    <entry file="file://$PROJECT_DIR$/src/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="49" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/standardy.php" />
     <entry file="file://$PROJECT_DIR$/src/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3315">
@@ -842,13 +743,7 @@
     <entry file="file://$PROJECT_DIR$/src/mapa.php" />
     <entry file="file://$PROJECT_DIR$/src/sass/components/_mapa.scss" />
     <entry file="file://$USER_HOME$/Desktop/atex/zasady-ochrany-osobnych-udajov.php" />
-    <entry file="file://$PROJECT_DIR$/src/o-nas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="62" selection-start-line="69" selection-start-column="62" selection-end-line="69" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/o-nas.php" />
     <entry file="file://$PROJECT_DIR$/dist/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -856,20 +751,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_rozcestnik.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reference.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="159" column="34" lean-forward="true" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_rozcestnik.scss" />
+    <entry file="file://$PROJECT_DIR$/src/reference.php" />
     <entry file="file://$PROJECT_DIR$/src/sass/bootstrap/_print.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
@@ -884,48 +767,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Newheader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Newheader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_modalSection.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_Oldheader.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.php" />
+    <entry file="file://$PROJECT_DIR$/src/Newheader.php" />
+    <entry file="file://$PROJECT_DIR$/src/index3.php" />
+    <entry file="file://$PROJECT_DIR$/src/Newheader.php" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_modalSection.scss" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_Oldheader.scss" />
     <entry file="file://$PROJECT_DIR$/dist/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -933,146 +780,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hp2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="176" column="137" selection-start-line="176" selection-start-column="137" selection-end-line="176" selection-end-column="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_komplex.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/byt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/komplex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/old-orangebox-footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_projekts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_byt.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_orangeboxFooter.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1547">
-          <caret line="91" column="32" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/orangebox-footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" lean-forward="true" selection-start-column="48" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/projektMoravany.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/projektBoskovice.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/projektHybesova.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/standardy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="14" selection-start-line="81" selection-start-column="8" selection-end-line="94" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/galerie.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3434">
-          <caret line="202" selection-start-line="202" selection-end-line="207" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_realizations.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6205">
-          <caret line="365" column="23" selection-start-line="365" selection-start-column="23" selection-end-line="365" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hp2.php" />
+    <entry file="file://$PROJECT_DIR$/src/hp.php" />
+    <entry file="file://$PROJECT_DIR$/src/contact.php" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_komplex.scss" />
+    <entry file="file://$PROJECT_DIR$/src/byt.php" />
+    <entry file="file://$PROJECT_DIR$/src/komplex.php" />
+    <entry file="file://$PROJECT_DIR$/src/old-orangebox-footer.php" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_projekts.scss" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_byt.scss" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_base.scss" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_orangeboxFooter.scss" />
+    <entry file="file://$PROJECT_DIR$/src/orangebox-footer.php" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_buttons.scss" />
+    <entry file="file://$PROJECT_DIR$/src/projektMoravany.php" />
+    <entry file="file://$PROJECT_DIR$/src/projektBoskovice.php" />
+    <entry file="file://$PROJECT_DIR$/src/projektHybesova.php" />
+    <entry file="file://$PROJECT_DIR$/src/standardy.php" />
+    <entry file="file://$PROJECT_DIR$/src/galerie.php" />
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_realizations.scss" />
     <entry file="file://$PROJECT_DIR$/dist/css/jquery.fullpage.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1462">
@@ -1080,25 +806,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_galerie.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="163" column="15" selection-start-line="163" selection-start-column="15" selection-end-line="163" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_homepage.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_header.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/components/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/components/_galerie.scss" />
     <entry file="file://$PROJECT_DIR$/src/sass/variables/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -1113,9 +821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/footer.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1123,10 +828,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        <state relative-caret-position="289">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
